@@ -1,8 +1,8 @@
 apiVersion: v2
 name: keycloakx
-version: 1.0.0
+version: 1.0.1
 
 dependencies:
   - name: keycloakx
-    version: 2.3.0
+    version: 2.4.2
     repository: https://codecentric.github.io/helm-charts
